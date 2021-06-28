@@ -1,0 +1,11 @@
+{
+    "minVersion": "0.8",
+    "refmap": "advent-ascension-visuals-client.refmap.json",
+    "package": "rmc.mixins.advent_ascension_visuals_client.inject",
+    "mixins": [
+        "EnergyShotRendererMixin",
+        "GhoulShotRendererMixin",
+        "MeteorFallRendererMixin",
+        "ToxicShotRendererMixin"
+    ]
+}
